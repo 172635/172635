@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=merko)
+![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=midnight-purple)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=172635&layout=compact)
+
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=172635)
 
 <!--
 **172635/172635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
