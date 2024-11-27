@@ -8,7 +8,7 @@
 * Good Bye, BOJ 2023! - 43위 (2023.12.31)
 * **Hello, BOJ 2024! - 45위** (2024.01.14)
 * 2024 GIST 알고리즘 마스터즈 - 1위 (2024.05.26)
-* 2024 ICPC Seoul Regional - 본선 63위 (2023.11.23)
+* 2024 ICPC Seoul Regional - 본선 63위 (2024.11.23)
 --------------------
 
 ![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=midnight-purple)
