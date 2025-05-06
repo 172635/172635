@@ -2,13 +2,13 @@
 
 #
 ### About 172635
-* GIST (2023 - )
+* GIST : undergrad (2023 - )
 --------------------
-* **2023 ICPC Seoul Regional - 본선 49위** (2023.11.25)
-* Good Bye, BOJ 2023! - 43위 (2023.12.31)
-* **Hello, BOJ 2024! - 45위** (2024.01.14)
-* 2024 GIST 알고리즘 마스터즈 - 1위 (2024.05.26)
-* 2024 ICPC Seoul Regional - 본선 63위 (2024.11.23)
+* **2023 ICPC Seoul Regional - 49th** (2023.11.25)
+* Good Bye, BOJ 2023! - 43rd (2023.12.31)
+* **Hello, BOJ 2024! - 45th** (2024.01.14)
+* 2024 GIST Algorithm Masters - 1st (2024.05.26)
+* 2024 ICPC Seoul Regional - 63rd (2024.11.23)
 --------------------
 
 ![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=midnight-purple)
