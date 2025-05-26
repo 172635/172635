@@ -3,6 +3,7 @@
 #
 ### About 172635
 * GIST : undergrad (2023 - )
+* GIST AI - Data Science Lab (PI : Sundong Kim) : intern (2025.03 - )
 --------------------
 * **2023 ICPC Seoul Regional - 49th** (2023.11.25)
 * Good Bye, BOJ 2023! - 43rd (2023.12.31)
@@ -24,6 +25,8 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"></a>
 
 #
 ### Algorithm
