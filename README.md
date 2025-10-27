@@ -5,6 +5,13 @@
 * GIST : undergrad (2023 - )
 * GIST AI - Data Science Lab (PI : Sundong Kim) : intern (2025.03 - )
 --------------------
+Publications
+* [TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design](https://arxiv.org/abs/2506.19997)
+  
+  Geonwoo Cho, Jaegyun Im, Jihwan Lee, **Hojun Yi**, Sejin Kim, and Sundong Kim
+
+  CoRL 2025 Resource-Rational Robot Learning Workshop
+--------------------
 * **2023 ICPC Seoul Regional - 49th** (2023.11.25)
 * Good Bye, BOJ 2023! - 43rd (2023.12.31)
 * **Hello, BOJ 2024! - 45th** (2024.01.14)
