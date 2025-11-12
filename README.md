@@ -38,9 +38,7 @@ Publications
 #
 ### Algorithm
 <a href="https://solved.ac/profile/172635"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=172635">
-<img src="http://mazandi.herokuapp.com/api?handle=172635&theme=dark"/>
-
-
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=172635&theme=dark"/> -->
 
 <!--
 **172635/172635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
