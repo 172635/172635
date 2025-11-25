@@ -18,9 +18,9 @@ Publications
 * 2024 GIST Algorithm Masters - 1st (2024.05.26)
 * 2024 ICPC Seoul Regional - 63rd (2024.11.23)
 --------------------
-
+<!--
 ![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=midnight-purple)
-
+-->
 #
 ### Lang / Using Tech
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=172635&layout=compact)
