@@ -21,7 +21,6 @@ Publications
 <!--
 ![172635's Github Stats](https://github-readme-stats.vercel.app/api?username=172635&show_icons=true&theme=midnight-purple)
 -->
-#
 ### Lang / Using Tech
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=172635&layout=compact)
@@ -37,7 +36,7 @@ Publications
 <br>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"></a>
 
-#
+--------------------
 ### Algorithm
 <a href="https://solved.ac/profile/172635"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=172635">
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=172635&theme=dark"/> -->
