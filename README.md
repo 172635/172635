@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=200&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=38&desc=172635's%20github&descAlignY=51&descAlign=62)
-
-#
 ### About 172635
 * GIST : undergrad (2023 - )
 * GIST AI - Data Science Lab (PI : Sundong Kim) : intern (2025.03 - )
