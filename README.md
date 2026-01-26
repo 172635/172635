@@ -7,7 +7,9 @@ Publications
   
   Geonwoo Cho, Jaegyun Im, Jihwan Lee, **Hojun Yi**, Sejin Kim, and Sundong Kim
 
-  CoRL 2025 Resource-Rational Robot Learning Workshop
+  ICLR 2026
+
+  CoRL Workshop 2025, Resource-Rational Robot Learning
 --------------------
 * **2023 ICPC Seoul Regional - 49th** (2023.11.25)
 * Good Bye, BOJ 2023! - 43rd (2023.12.31)
