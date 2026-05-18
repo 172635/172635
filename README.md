@@ -1,15 +1,15 @@
 ### About 172635
-* GIST : undergrad (2023 - )
-* GIST AI - Data Science Lab (PI : Sundong Kim) : intern (2025.03 - )
+* GIST : undergrad (2023 - present)
+  * Major : Electrical Engineering and Computer Science (focus on Computer Science)
+  * (planning) Double Major : Mathematical Sciences (focus on Optimization, Automata)
+* GIST AI - Data Science Lab (advisor : Sundong Kim) : intern (2025.03 - present)
 --------------------
 Publications
 * [TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design](https://arxiv.org/abs/2506.19997)
   
   Geonwoo Cho, Jaegyun Im, Jihwan Lee, **Hojun Yi**, Sejin Kim, and Sundong Kim
 
-  ICLR 2026
-
-  CoRL Workshop 2025, Resource-Rational Robot Learning
+  ICLR 2026, CoRL Workshop(Resource-Rational Robot Learning) 2025 
 --------------------
 * **2023 ICPC Seoul Regional - 49th** (2023.11.25)
 * Good Bye, BOJ 2023! - 43rd (2023.12.31)
