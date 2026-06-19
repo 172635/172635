@@ -9,7 +9,13 @@ Publications
   
   Geonwoo Cho, Jaegyun Im, Jihwan Lee, **Hojun Yi**, Sejin Kim, and Sundong Kim
 
-  ICLR 2026, CoRL Workshop(Resource-Rational Robot Learning) 2025 
+  ICLR 2026, CoRL Workshop(Resource-Rational Robot Learning) 2025
+
+* [Receding-Horizon Execution for Action Chunking in Offline-to-Online Reinforcement Learning](https://openreview.net/pdf?id=vyWu5mz4x0)
+
+  Jihwan Lee, Geonwoo Cho, **Hojun Yi**, Jaegyun Im, Giseung Park, and Sundong Kim
+
+  ICML Workshop(Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning) 2026
 --------------------
 * **2023 ICPC Seoul Regional - 49th** (2023.11.25)
 * Good Bye, BOJ 2023! - 43rd (2023.12.31)
