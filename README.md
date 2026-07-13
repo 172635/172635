@@ -1,4 +1,7 @@
 ### About 172635
+
+[172635's github io webpage](https://172635.github.io/)
+
 * DSHS(Daejeon Science High School) (2020 - Jan 2023)
 * GIST : undergrad (2023 - present)
   * GPA 4.20/4.5
