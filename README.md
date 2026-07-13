@@ -1,9 +1,9 @@
 ### About 172635
 * DSHS(Daejeon Science High School) (2020 - Jan 2023)
 * GIST : undergrad (2023 - present)
-  * GPA 4.16/4.5
-  * Major : Electrical Engineering and Computer Science, 4.32/4.5 (focus on Computer Science)
-  * (planning) Double Major : Mathematical Sciences 4.20/4.5 (focus on Optimization, Automata)
+  * GPA 4.20/4.5
+  * Major : Electrical Engineering and Computer Science, 4.34/4.5 (focus on Computer Science)
+  * (planning) Double Major : Mathematical Sciences 4.29/4.5 (focus on Optimization, Automata)
   * Expected Cum Laude graduation in Aug 2027
 * GIST AI - Data Science Lab (advisor : Sundong Kim) : intern (2025.03 - present)
 --------------------
